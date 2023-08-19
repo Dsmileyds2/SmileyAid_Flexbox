@@ -399,6 +399,7 @@
     html,body
     {
         height: 100%;
+        width: 100%;
         margin: 0px;
         padding: 0px;
     }
@@ -410,6 +411,7 @@
         gap: 50px;
         justify-content: space-between;
         height: inherit;
+        width: inherit;
     }
     #head-wrap {
         background-color: #6A0DAD;
